@@ -1,5 +1,5 @@
-<h1 align="center">hey im ozcar a 16 yr old developer</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Denmark ( Currently in the US ).</h3>
+<h1 align="center">hey im ozcar, a 16 yr old wannabe developer</h1>
+<h3 align="center">I'm a passionate wannabe developer from Denmark ( Currently in the US ).</h3>
 
 
 ## 🙋‍♂️ About Me
