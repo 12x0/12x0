@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozcardk&label=Profile%20views&color=0e75b6&style=flat" alt="ozcardk" /> </p>
 
-- 🔭 I’m currently working on **Pingers**
+- 😁 My pronounce **Nick / Her**
 
 - 🌱 I’m currently learning **Python**
 
