@@ -8,6 +8,10 @@
 
 - 📫 Reach me on ig on **@ozcarDK**
 
+- 💬 Ask me about FiveM or Linux
+
+- 😄 Pronouns: Nick/Her
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
