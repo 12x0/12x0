@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://discord.gg/cZccc">
-    <img src="https://cdn.discordapp.com/attachments/835652361715712020/842756715400134667/dsafsdaf.png"></a>
+    <img src="https://user-images.githubusercontent.com/85458589/128277007-c13547e7-e975-4d5f-9ca2-3aa4378682e7.png"></a>
 </p>
 </p>
 <p align="center">
