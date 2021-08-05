@@ -14,8 +14,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ozcardk&label=Profile%20views&color=0e75b6&style=flat" alt="ozcardk" /> </p>
 
-<h4 align="center"> 😁 My pronounce // Nick / Her </h3>
-
 <h4 align="center"> 🌱 I’m currently learning // Python </h3>
 
 <h4 align="center"> 💬 Ask me about // FiveM or Linux  </h3>
