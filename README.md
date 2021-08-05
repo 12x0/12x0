@@ -18,9 +18,9 @@
 
 <h1 align="center"> 🌱 I’m currently learning **Python** </h3>
 
-<h1 align="center"> 💬 Ask me about **FiveM or Linux** </h3>
+<h4 align="center"> 💬 Ask me about **FiveM or Linux** </h3>
 
-<align="center"> 📫 Reach me on ig **@ozcardk** </h3>
+<h1 align="center"> 📫 Reach me on ig **@ozcardk** </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
