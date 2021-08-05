@@ -1,5 +1,5 @@
 <h1 align="center">hey im ozcar, a 16 yr old wannabe developer</h1>
-<h3 align="center">I'm a passionate wannabe developer from Denmark ( Currently in the US ).</h3>
+<h3 align="center">I'm a passionate wannabe developer from Denmark ( currently in the US ).</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ozcarDK/github-readme-activity-graph"><img alt="ozcar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
