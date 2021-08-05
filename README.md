@@ -1,6 +1,4 @@
-<a align="center" href="#"><img width="auto" height="auto" src="https://user-images.githubusercontent.com/85458589/128272379-9664cc82-0393-4540-b85b-7cf7253fa494.png" height="auto"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ozcar</h1>
+<h1 align="center">hey im ozcar a 16 yr old developer</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Denmark ( Currently in the US ).</h3>
 
 
