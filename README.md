@@ -1,3 +1,5 @@
+<h2 align="center">sup im ozcar</h2>
+
 <h3 align="center">I'm a passionate wannabe developer from Denmark ( currently in the US )</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozcardk&label=Profile%20views&color=0e75b6&style=flat" alt="ozcardk" /> </p>
@@ -6,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **FiveM - LUA or Linux**
+- 💬 Ask me about **FiveM or Linux**
 
 - 📫 Reach me on ig **@ozcardk**
 
