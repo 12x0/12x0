@@ -1,6 +1,6 @@
-<h2 align="center">sup im ozcar</h2>
+<h2 align="center">12x0</h2>
 
-<h3 align="center">I'm a passionate wannabe developer from Denmark ( currently in the US )</h3>
+<h3 align="center">FiveM Developer</h3>
 
 <p align="center">
   <a href="https://discord.gg/cZccc">
@@ -9,7 +9,7 @@
 </p>
 <p align="center">
     <a href="https://discord.com/users/761608769394180116">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-ozcar%239999-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>  
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-12x0%7883-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>  
 </p>
 
 <h4 align="center"> I’m currently learning // Python </h3>
